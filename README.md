@@ -1,5 +1,8 @@
 # 💫 About Me:
-# Hi 👋 I am Garima, a passionate tech learner with a strong interest in problem solving and Data Structures & Algorithms. I have experience in programming with C++ and Python and regularly practice coding to improve my logical thinking and consistency. I am also exploring web development basics and currently learning AI/ML to build a strong foundation in modern technologies. I enjoy working on small projects, using GitHub for version control, and continuously upgrading my skills with the goal of building a strong career in the tech industry.>## 📫 Connect with me<br>- GitHub:  https://github.com/garimatiwari1912-alt<br>- LinkedIn: https://www.linkedin.com/in/garima-tiwari-1252a0378/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BB7R1ZtQUS9S7Q3iUinIsbA%3D%3D
+# Hi 👋 I am Garima, a passionate tech learner with a strong interest in problem solving and Data Structures & Algorithms. I have experience in programming with C++ and Python and regularly practice coding to improve my logical thinking and consistency. I am also exploring web development basics and currently learning AI/ML to build a strong foundation in modern technologies. I enjoy working on small projects, using GitHub for version control, and continuously upgrading my skills with the goal of building a strong career in the tech industry.>
+📫 Connect with me
+GitHub:  https://github.com/garimatiwari1912-alt<br>-
+LinkedIn: https://www.linkedin.com/in/garima-tiwari-1252a0378/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BB7R1ZtQUS9S7Q3iUinIsbA%3D%3D
 
 
 ## 🌐 Socials:
