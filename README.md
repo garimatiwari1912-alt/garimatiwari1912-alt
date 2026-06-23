@@ -8,7 +8,8 @@ LinkedIn: https://www.linkedin.com/in/garima-tiwari-1252a0378/?lipi=urn%3Ali%3Ap
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/garima_1912_31719)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@softechoes_90)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/garima-tiwari-1252a0378/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrgsI6KTlStuf1ZDATRKAKA%3D%3D) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@GARIMATiwa76349) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@GARIMA Tiwari) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/garima-tiwari-1252a0378/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrgsI6KTlStuf1ZDATRKAKA%3D%3D) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@GARIMATiwa76349) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:garimatiwari1912@gmail.com) 
 
 # 💻 Tech Stack:
